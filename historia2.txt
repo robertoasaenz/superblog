@@ -2,8 +2,4 @@ Esta es la segunda historia de practica de Roberto.
 
 Saldremos airosos de esto y todo se convertirá en un mal recuerdo y un ejemplo para futuras generaciones.
 
-Nueva Linea agregada para experimentar el git show
-
-Nueva linea el Domingo
-
-Segunda Linea el Domingo
+Por tercera vez agrego una linea el Domingo
